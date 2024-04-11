@@ -94,3 +94,4 @@ code ./
 - пример pipeline gitlab ci/cd
 - пример pipeline github action
 - Не помню точно но svelte надо конфигурировать
+- Возможно добавить что то похожее для [WebStorm JetBrains IDEs](https://www.jetbrains.com/help/webstorm/connect-to-devcontainer.html)
